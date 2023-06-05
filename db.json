@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+          "name": 'Dori',
+          "email": 'dori@gmail.com',
+          "location": 'המרכז',
+          "education": 'B.Sc. in Computer Science',
+          "phoneNum": '0546396968',
+          "skills": ['dart', 'c', 'python'],
+          "myIcon": 'assets/icon1.png',
+          "password": '1',
+    },
+    {
+          "name": 'alon',
+          "email": 'alon@gmail.com',
+          "location": 'המרכז',
+          "education": 'B.Sc. in Computer Science',
+          "phoneNum": '0546396968',
+          "skills": ['dart', 'c', 'python'],
+          "myIcon": 'assets/icon3.png',
+          "password": '12',
+    },
+{
+          "name": 'omer',
+          "email": 'omer@gmail.com',
+          "location": 'המרכז',
+          "education": 'B.Sc. in Computer Science',
+          "phoneNum": '0546396968',
+          "skills": ['java', 'c++', 'python'],
+          "myIcon": 'assets/icon7.png',
+          "password": '123',
+    },
+  ]
+}
